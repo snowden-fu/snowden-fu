@@ -4,7 +4,7 @@ Hello, I'm Snowden (Zheng) Fu, a final year Master of Information Technology stu
 
 As a Frontend Developer, I specialize in Python, JavaScript, and Dart. You can find my contributions to the Seeder project on my Github, where I was the monthly top committer. I have also designed prototypes and implemented the frontend in React for the Big Brain project.
 
-I have utilized Agile Scrum practices as the Scrum Master for the EventHub project, which allowed me to develop over 30 issues within 3 sprints and reduce development time. You can see my effective communication and leadership skills in the project's Github repository.
+I have utilized Agile Scrum practices as the Scrum Master for the EventHub project. You can see my effective communication and leadership skills in the project's Github repository.
 
 I am always looking for new challenges and opportunities to learn. You can follow me on Github for updates on my latest projects and contributions.
 
