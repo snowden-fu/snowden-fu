@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...Smart Contract
-- 🌱 I’m currently learning ...Web3 
+- 🔭 I’m currently working on ...Building Personal Brand
+- 🌱 I’m currently learning ...Smart Contract
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...[](https://www.linkedin.com/in/zhengfu1998/)
+- 🤔 I’m looking for help with ...Seeking a Grad Job
+- 💬 Ask me about ...Anything
+- 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/zhengfu1998/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
