@@ -14,7 +14,7 @@ I am always looking for new challenges and opportunities to learn. You can follo
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ...[SwapTrade: A second-hand trading platform](https://swap-trade.mel.fish/) with my teammates
-- 🌱 I’m currently learning ...leveraging GPT API making creative such as [cover letter generator](https://main.dd801r2ylr0n8.amplifyapp.com/)
+- 🌱 I’m currently learning ...leveraging GPT API making creative such as [cover letter generator](https://main.dd801r2ylr0n8.amplifyapp.com/) on AWS
 - 👯 I’m looking to collaborate on UI/UX designer making better UX for [cover letter project](https://main.dd801r2ylr0n8.amplifyapp.com/)
 - 🤔 I’m looking for help with ...Seeking a Grad Job
 - 💬 Ask me about ...Anything
