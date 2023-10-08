@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [eckles -- A teaching platform for COMP6080](https://github.com/fuzheng1998/eckles)
 
-- 🌱 I’m currently learning **Prompt Engineering**
+- 🌱 I’m currently learning **_Prompt Engineering_**
 
-- 👯 I’m looking to collaborate on [big brain in Next.js on AWS](https://github.com/fuzheng1998/next-big-brain)
+- 👯 I’m looking to collaborate on [big-brain in Next.js on AWS](https://github.com/fuzheng1998/next-big-brain)
 
 - 🤝 I’m looking for help with **cv-cover -- A cover letter generator**
 
