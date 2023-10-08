@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **cv-cover -- A cover letter generator**
 
-- 💬 Ask me about **React, Next.js, and any of web dev**
+- 💬 Ask me about **_React, Next.js, and any of web dev_**
 
 - 📫 How to reach me **snowden.fu+github@gmail.com**
 
